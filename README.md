@@ -1,5 +1,5 @@
-<h2> ✨ Welcome ✨
- </h2>
+<h1> ✨ Welcome ✨
+ </h1>
 <h3> Hello, my name is Kim @Desikim 👋 
 </h3> 
 
